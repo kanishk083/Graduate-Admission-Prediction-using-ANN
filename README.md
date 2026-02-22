@@ -21,7 +21,7 @@ We use a **fully connected feed-forward neural network** trained on the **Gradua
 
 ---
 
-## 🧩 Technologies Used
+##  Technologies Used
 
 - **Python 3.x**
 - **NumPy** → numerical computations  
