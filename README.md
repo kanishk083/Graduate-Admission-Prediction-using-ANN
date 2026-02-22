@@ -31,7 +31,7 @@ We use a **fully connected feed-forward neural network** trained on the **Gradua
 
 ---
 
-## ⚙️ Workflow
+##  Workflow
 
 1. **Data Preprocessing**
    - Load dataset using Pandas  
