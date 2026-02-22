@@ -1,4 +1,4 @@
-# 🎓 Graduate Admission Prediction using ANN
+#  Graduate Admission Prediction using ANN
 
 A machine learning project that predicts the likelihood of a student’s graduate school admission based on academic and test performance metrics — built using **NumPy**, **Pandas**, **Keras**, and **Scikit-learn**.
 
