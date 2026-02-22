@@ -6,7 +6,7 @@ This project demonstrates how **Artificial Neural Networks (ANNs)** can be appli
 
 ---
 
-## 🧠 Project Overview
+##  Project Overview
 
 The goal is to predict the **chance of admission** (ranging from 0 to 1) for students applying to graduate programs using their profile data such as:
 - GRE Score  
